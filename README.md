@@ -1,2 +1,2 @@
 # fictional-lamp
-Just another repository
+Painstakingly crawling my way through the hello world tutorial
